@@ -1,4 +1,7 @@
+# 🚀 Laravel-React Fullstack Authentication and CRUD App 🚀
+
 Laravel React Web Application
+
 Overview
 
 This project is a web application built with Laravel on the backend and React on the frontend. It provides user authentication features, including signup, login, and logout functionality. Additionally, it offers CRUD (Create, Read, Update, Delete) operations for managing user data.
@@ -50,9 +53,9 @@ License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 Contact
 
-For any inquiries or feedback, please contact the project maintainer at [Your Email Address].
+For any inquiries or feedback, please contact the project maintainer at omar.7tech@gmail.com.
 
-
+<hr/>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
